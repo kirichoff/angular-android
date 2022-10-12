@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "com.verso.cordova.clipboard": "^0.1.0",
-    "cordova-android": "^6.4.0",
+    "cordova-android": "^11.0.0",
     "cordova-instagram-plugin": "^0.5.8",
     "cordova-ios": "^5.1.1",
     "cordova-plugin-android-permissions": "^1.0.2",
